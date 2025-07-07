@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #9159F4;
+}
+
+table{
+    width: 900px;
+    height: 650px;
+    margin: 5% auto;
+
+}
+.left{
+    height: 400px;
+    width: 800px;
+    background-color: #00B8C6;
+    border-style:hidden;
+  padding: 40px 20px;
+border-radius: 3px;
+  
+}
+.right{
+
+    height: 400px;
+    width: 800px;
+    background-color: white;
+     border-radius: 3px;
+  
+}
+#hone{
+    color: white;
+    text-align: center;
+     font-size: 40px;
+     
+}
+
+
+#htwo{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    margin: 50px auto;
+}
+
+p{
+     color: white;
+    text-align: center;
+}
+       
+
+.inp{
+    background-color: rgb(234, 236, 237);
+    width: 250px;
+    height: 15px;
+    padding: 3%;
+    margin: 3px auto;
+      display: block;
+
+}
+
+button{
+    height: 30px;
+     width: 150px;
+    padding: 5%;
+    text-align: center;
+    border-radius: 20px;
+    border-color: white;
+    background-color:#00B8C6 ;
+    color: white;
+    display: block;
+    margin: 0px auto;
+    
+
+}
+
+
+
