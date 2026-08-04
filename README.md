@@ -1,7 +1,9 @@
 #  Hi, I'm Basmala👋
 
-Computer Science student | Junior Full Stack .NET Developer
-Passionate about programming, web development, and continuous learning.
+I'm a Computer Science student interested in Full Stack .NET development.
+I enjoy learning new technologies, building projects, and improving my coding skills.
+
+
 
 ## Tech Stack
 <p align="left">
