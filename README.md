@@ -1,5 +1,7 @@
 # Basmala-66
 
-## Tech Stack
+## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,sql,git,github,vscode)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,github,html,css" />
+</p>
